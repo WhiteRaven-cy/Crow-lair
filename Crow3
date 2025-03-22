@@ -1,0 +1,46 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red & Black Realm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>The Crow's Lair</h1>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <section id="home">
+            <h2>Welcome</h2>
+            <p>Step into the shadows where secrets unfold.</p>
+        </section>
+        <section id="about">
+            <h2>About the Realm</h2>
+            <p>A place of mystery, ruled by the bold and the unseen.</p>
+        </section>
+        <section id="contact">
+            <h2>Reach Out</h2>
+            <p>Whisper your thoughts: mystery@crowlair.com</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 The Crow's Lair. All rights reserved.</p>
+    </footer>
+</body>
+</html>file:///storage/image/1000007517
+<link> <link rel="stylesheet" href="style.css" type="text/css" media="all" />
